@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Tarkan Jäger
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Surgical Oncology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Paracelsus Medical University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tarkan Jäger is a general and visceral surgeon with specialization in oncological surgery at the Paracelsus Medical University Salzburg. His research interests include cancer, data science and innovative techniques. He leads the colorectal and the peritoneal surface malignancies group. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
