@@ -1,10 +1,9 @@
 ---
-title: "An example journal article"
+title: "Progressive Oncological Surgery Is Associated with Increased Curative Resection Rates and Improved Survival in Metastatic Colorectal Cancer"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-09-01T00:00:00Z"
+doi: "10.3390/cancers11020218"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
