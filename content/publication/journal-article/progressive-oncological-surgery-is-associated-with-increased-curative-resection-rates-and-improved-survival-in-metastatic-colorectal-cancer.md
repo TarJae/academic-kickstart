@@ -3,7 +3,6 @@ abstract = "AIMS:\nThe four-tiered peritoneal regression grading score (PRGS) as
 authors = []
 date = 2020-02-22T23:00:00Z
 doi = "10.1111/his.13829"
-draft = true
 featured = false
 projects = []
 publication = "*Journal of Source Themes, 1*(1)"
