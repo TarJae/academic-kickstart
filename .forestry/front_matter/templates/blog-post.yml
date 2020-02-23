@@ -48,3 +48,5 @@ fields:
   type: boolean
   label: featured
   description: You can filter by featured content on your homepage
+pages:
+- content/publication/test publication 2/aims-the-four-tiered-peritoneal-regression-grading-score-prgs-assesses-the-response-to-chemotherapy-in-peritoneal-metastasis-pm-the-prgs-is-used-for-example-to-assess-the-response-to-pressurised-intraperitoneal-aerosol-chemotherapy-pipac-however-the-repro.md
